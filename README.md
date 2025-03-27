@@ -7,9 +7,6 @@
 ## 🎯 GitHub Statistics
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hmy21&show_icons=true&theme=radical&title_color=ff69b4&text_color=9f9f9f&icon_color=79ff97&bg_color=151515&hide_border=true)
 
-## 🔥 Streak Statistics
-[![GitHub Streak](https://streak-stats.demolab.com?user=hmy21&theme=blux&background=000000&stroke=00ff00&fire=ffb300&ring=00d4ff&currStreakNum=ffaa00)](https://git.io/streak-stats)
-
 ## 🌟 Activity Graph
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=hmy21&theme=react-dark&bg_color=000000&line=00ff00&point=ff00ff&area=true&hide_border=true" />
 
